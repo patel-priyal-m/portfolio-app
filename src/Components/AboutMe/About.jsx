@@ -82,7 +82,7 @@ const About = () => {
               <Button
                 colorScheme="orange"
                 variant="solid"
-                onClick={() => navigate("/PortfolioWebsite/contact")}
+                onClick={() => navigate("/portfolio-app/contact")}
               >
                 Contact Me
               </Button>
