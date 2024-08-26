@@ -9,7 +9,7 @@ export const Education_data = [
   },
   {
     icon: "fa-solid fa-graduation-cap",
-    school: "L.D. College of Engineering (GTU), Ahmedabad, India",
+    school: "L.D. College of Engineering, India",
     year: "2016-2020",
     description: "Bachelor of Engineering in Computer Engineering",
     marks_type: "CGPA",
@@ -17,7 +17,7 @@ export const Education_data = [
   },
   {
     icon: "fa-solid fa-school",
-    school: "Nutan High School, Ahmedabad, India",
+    school: "Nutan High School, India",
     year: "2014-2016",
     description: "HighSchool",
     marks_type: "Percentile",
