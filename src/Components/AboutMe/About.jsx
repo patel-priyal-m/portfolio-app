@@ -45,29 +45,22 @@ const About = () => {
 
           <Box d="flex" flexDir="column" p={30}>
             <Text textAlign="justify" alignItems="center" fontSize="lg">
-              Hi, I’m Priyal Patel, a Full Stack Developer, passionate about
-              transforming ideas into impactful web experiences. With over 4
-              years of experience, I specialize in creating dynamic, scalable
-              solutions using cutting-edge technologies like React.js and
-              Node.js. I specialize in:
+              Hi, I’m Priyal Patel, a Master of Applied Computing student with a focus on Artificial Intelligence, driven by a deep interest in leveraging AI and machine learning to solve real-world problems. With experience in developing intelligent systems, I specialize in designing and implementing solutions that harness the power of data to deliver impactful insights. My expertise includes:
             </Text>
             <ul>
               <li>
                 <Text fontSize="lg">
-                  <b>Innovative Solutions:</b> Creative problem-solving for
-                  complex challenges.
+                Building predictive models and deploying machine learning algorithms
                 </Text>
               </li>
               <li>
                 <Text fontSize="lg">
-                  <b>User-Centric Design:</b> Crafting intuitive and engaging
-                  user interfaces.
+                Creating scalable AI-driven applications
                 </Text>
               </li>
               <li>
                 <Text fontSize="lg">
-                  <b>Performance Optimization:</b> Ensuring fast and efficient
-                  applications.
+                Applying data analysis and visualization techniques to uncover trends and patterns
                 </Text>
               </li>
               <li>
