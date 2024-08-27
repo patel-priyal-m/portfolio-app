@@ -48,7 +48,7 @@ const Home = () => {
                   2000,
                   "AI Developer 💻",
                   2000,
-                  "Full Stack Developer 👩‍💻",
+                  "Application Developer 👩‍💻",
                   2000,
                   
                 ]}
@@ -63,7 +63,7 @@ const Home = () => {
               fontFamily="cursive"
               fontSize="large"
             >
-              I Love Building Amazing fullstack applications
+              I Love Solving Complex Problems
             </Text>
             <Stack direction="row" spacing={4} mt={2}>
               <Button
