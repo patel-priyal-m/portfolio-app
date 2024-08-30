@@ -50,22 +50,33 @@ const About = () => {
             <ul>
               <li>
                 <Text fontSize="lg">
-                Building predictive models and deploying machine learning algorithms
+                  <br></br>
+                  Data Structures and Algorithm
                 </Text>
               </li>
               <li>
                 <Text fontSize="lg">
-                Creating scalable AI-driven applications
+                  Solving complex problems with innovative approaches
                 </Text>
               </li>
               <li>
                 <Text fontSize="lg">
-                Applying data analysis and visualization techniques to uncover trends and patterns
+                  Artificial Intelligence and Machine Learning
                 </Text>
               </li>
               <li>
                 <Text fontSize="lg">
-                  <b>Continuous Learning:</b> Staying ahead of trends and
+                  Creating scalable applications
+                </Text>
+              </li>
+              <li>
+                <Text fontSize="lg">
+                  Applying data analysis and visualization techniques to uncover trends and patterns
+                </Text>
+              </li>
+              <li>
+                <Text fontSize="lg">
+                  Staying ahead of trends and
                   embrace new technologies.
                 </Text>
               </li>

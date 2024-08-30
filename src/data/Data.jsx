@@ -19,7 +19,7 @@ export const Education_data = [
     icon: "fa-solid fa-school",
     school: "Nutan High School, India",
     year: "2014-2016",
-    description: "HighSchool",
+    description: "High School",
     marks_type: "Percentile",
     marks: "99.23",
   },
@@ -35,26 +35,26 @@ export const Work_data = [
       [
         "Web Development",
         "Skills: ASP.NET, MVC, HTML, CSS, JS, Solr, Sitecore, SQL",
-        "Collaborated on full-stack development on Client based multilingual website for petroleum products",
-        "Added functionalities for backend development of APIs, Migration of static PDF data to Dynamic page, Algorithm implementation for indexing, searching and filtering of data and Frontend development of Product and Resource pages",
-        "Deployed applications on Windows and Linux based servers using both automated and manual procedures",
-        "Facilitated client meetings, providing key suggestions and development updates to drive project progress",
-        "Collaborated in Agile teams, participating in sprints, stand-ups, and retrospectives to ensure timely project delivery"
+        "Collaborated on <b>full-stack</b> development on Client based multilingual website for petroleum products",
+        "Added functionalities for backend development of <b>APIs</b>, Migration of static PDF data to Dynamic page, Algorithm implementation for <b>indexing</b>, <b>searching</b> and <b>filtering</b> of data and Frontend development of Product and Resource pages",
+        "<b>Deployed</b> applications on Windows and Linux based servers using both <b>automated</b> and <b>manual</b> procedures",
+        "Facilitated <b>client meetings</b>, providing key suggestions and development updates to drive project progress",
+        "Collaborated in <b>Agile</b> teams, participating in sprints, stand-ups, and retrospectives to ensure timely project delivery"
       ],
       [
         "Automation Development",
         "Skills: Python, Sitecore CLI, React JS (gulp), Unix",
-        "Implemented Automation functionalities using Sitecore CLI for Sitecore data manipulation, gulp for minifications and python scripts for deployment",
-        "Used Selenium for scrapping website data",
+        "Implemented <b>Automation</b> functionalities using Sitecore CLI for Sitecore data manipulation, gulp for minifications and python scripts for deployment",
+
       ],
       [
         "Service Management",
         "Skills: ServiceNow, Sitecore, ASP.NET, SCLA, Office 365, Microsoft Power Platform",
-        "Authored content for 4 multilingual websites",
-        "Resolved tickets and enhancement requests adhering to Service Level Agreement (SLA) utilizing ServiceNow",
-        "Crafted MSR and log reports and monitored logs using SCLA to ensure accurate tracking and reporting",
-        "Participated in the development of Project Proposals and the preparation of cost estimation reports",
-        "Enhanced website security by conducting SAST and DAST scans, analyzing reports, collaborating with the infrastructure team, and implementing best practices in coding to mitigate risks"
+        "<b>Authored content</b> for 4 multilingual websites",
+        "Resolved <b>tickets</b> and <b>enhancement requests</b> adhering to Service Level Agreement (SLA) utilizing <b>ServiceNow</b>",
+        "Crafted <b>MSR</b> and <b>log reports</b> and monitored logs using SCLA to ensure accurate tracking and reporting",
+        "Participated in the development of <b>Project Proposals</b> and the preparation of <b>cost estimation reports</b>",
+        "Enhanced website security by conducting <b>SAST</b> and <b>DAST</b> scans, analyzing reports, collaborating with the infrastructure team, and implementing best practices in coding to mitigate risks"
       ],
     ],
   },
@@ -68,9 +68,9 @@ export const Project_data = [
     key_skills: "Deep Learning, LSTM, Android Studio, AWS, Redis Queue",
     description: [
       "Empowered users to upload videos, potentially containing violence, via a mobile application to a central storage system on AWS.",
-      "Leveraged Deep Learning and LSTM to detect instances of violence in uploaded videos.",
-      "Facilitated transfer of these videos to authoritative organizations through a web application, if violence is detected using AWS S3 to web portal developed using React.",
-      "Secured 1st position in college-wide project competition."
+      "Leveraged <b>Deep Learning</b> and <b>LSTM</b> to detect instances of violence in uploaded videos.",
+      "Facilitated transfer of these videos to authoritative organizations through a <b>web application</b>, if violence is detected using <b>AWS S3</b> to web portal developed using React.",
+      "Secured <b>1st position<b/> in college-wide project competition."
     ],
     website: "https://www.youtube.com/watch?v=pY210luZtMQ"
   }
@@ -81,9 +81,9 @@ export const Project_data = [
     name: "Bird Migration Analysis",
     key_skills: "NASA Power, GBIF, Geo-Json, Leaflet, Regression Model",
     description: [
-      "Developed a model utilizing data available on NASA Power and GBIF for analysis of temperature and bird migration pattern.",
-      "Analyzed time-stamped data with Geo-Json format to visualize on maps using Leaflet library.",
-      "Trained regression model to predict exact location of birds."
+      "Developed a model utilizing data available on <b>NASA Power</b> and <b>GBIF</b> for analysis of temperature and bird migration pattern.",
+      "Analyzed <b>time-stamped</b> data with <b>Geo-Json</b> format to <b>visualize</b> on maps using Leaflet library.",
+      "Trained <b>regression model</b> to predict exact location of birds."
     ],
     website: "https://github.com/patel-priyal-m/BirdMigration"
   },
@@ -92,8 +92,8 @@ export const Project_data = [
     name: "Electralytics (Find best deal on e-commerce platforms)",
     key_skills: "Java, Spring-boot, Selenium, JSoup",
     description: [
-      "Created a web scraper to fetch data from major e-commerce platforms.",
-      "Demonstrated usage of various algorithms like HashMap, LinkedList, Tree Map, Red-Black Tree for creating functionalities like Page Ranking, Word Completion, Inverted Indexing, Pattern Matching, Spell checker etc."
+      "Created a web <b>scraper</b> to fetch data from major e-commerce platforms.",
+      "Demonstrated usage of various algorithms like <b>HashMap, LinkedList, Tree Map, Red-Black Tree</b> for creating functionalities like Page Ranking, Word Completion, Inverted Indexing, Pattern Matching, Spell checker etc."
     ],
     website: "https://github.com/patel-priyal-m/Electralytics/tree/main"
   },
@@ -102,9 +102,9 @@ export const Project_data = [
     name: "Parkinson's Disease Detection",
     key_skills: "K-Means, Random Forest, KNN, Linear Regression, SVM",
     description: [
-      "Utilized sleep efficiency data from Kaggle.com to categorize individuals into those with Parkinson's and healthy individuals.",
+      "Utilized <b>sleep efficiency data</b> from Kaggle.com to categorize individuals into those with Parkinson's and healthy individuals.",
       "Used a non-invasive method (machine learning model) for early detection of Parkinson's disease.",
-      "Performed K-means clustering to create a labeled dataset which is used for training various ML models."
+      "Performed <b>K-means</b> clustering to create a labeled dataset which is used for training various ML models."
     ],
     website: "https://github.com/patel-priyal-m/parkinsons-disease-detection"
   },
@@ -113,7 +113,7 @@ export const Project_data = [
     name: "Twitter Based Sentiment Analysis",
     key_skills: "Machine Learning, Python",
     description: [
-      "Performed certain pre-processing methods for cleaning the Twitter dataset.",
+      "Performed certain pre-processing methods for cleaning the <b>Twitter dataset</b>.",
       "Tested the accuracy on classifiers (SVM, Naive Bayes, Decision Tree, Random Forest, KNN)."
     ],
     website: ""
@@ -123,8 +123,8 @@ export const Project_data = [
     name: "Blogpost Application",
     key_skills: "Flask, Django, CRUD Operations",
     description: [
-      "Developed a full-stack blog platform integrating Flask for API management and Django for content administration.",
-      "Implemented seamless CRUD operations for posts, leveraging Django’s admin interface and Flask's RESTful services."
+      "Developed a full-stack blog platform integrating <b>Flask</b> for API management and <b>Django</b> for content administration.",
+      "Implemented seamless <b>CRUD</b> operations for posts, leveraging Django’s admin interface and Flask's RESTful services."
     ],
     website: ""
   },
@@ -133,7 +133,7 @@ export const Project_data = [
     name: "Face Recognition Based Attendance Application",
     key_skills: "Java, Android Studio, Firebase",
     description: [
-      "This application consists of 2 steps: QR scanning and Face Recognition.",
+      "This application consists of 2 steps: <b>QR scanning</b> and <b>Face Recognition</b>.",
       "Based on the QR code shown by faculty, a student can scan the QR which opens the camera through which a student's face is recognized and attendance is marked."
     ],
     website: ""
@@ -148,7 +148,7 @@ export const Project_data = [
     ],
     website: "https://github.com/patel-priyal-m/applock"
   },
-  
+
 
 ];
 
@@ -264,5 +264,5 @@ export const Skills_data = [
   {
     skill: "Unix (Ubuntu, Debian)"
   }
-  
+
 ];

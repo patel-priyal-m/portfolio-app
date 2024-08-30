@@ -44,11 +44,11 @@ const Home = () => {
             <Text color="#FA675E" fontSize="4xl">
               <Typical
                 steps={[
+                  "Software Engineer 💻",
+                  2000,
                   "Machine Learning Enthusiast 👩‍💻",
                   2000,
                   "AI Developer 💻",
-                  2000,
-                  "Application Developer 👩‍💻",
                   2000,
                   
                 ]}
