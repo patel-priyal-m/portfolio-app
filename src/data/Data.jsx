@@ -39,12 +39,12 @@ export const Work_data = [
         "Added functionalities for backend development of <b>APIs</b>, Migration of static PDF data to Dynamic page, Algorithm implementation for <b>indexing</b>, <b>searching</b> and <b>filtering</b> of data and Frontend development of Product and Resource pages",
         "<b>Deployed</b> applications on Windows and Linux based servers using both <b>automated</b> and <b>manual</b> procedures",
         "Facilitated <b>client meetings</b>, providing key suggestions and development updates to drive project progress",
-        "Collaborated in <b>Agile</b> teams, participating in sprints, stand-ups, and retrospectives to ensure timely project delivery"
+        "Collaborated in <b>Agile</b> teams, participating in sprints, stand-ups, and retrospectives to ensure timely project delivery<br/><br/>"
       ],
       [
         "Automation Development",
         "Skills: Python, Sitecore CLI, React JS (gulp), Unix",
-        "Implemented <b>Automation</b> functionalities using Sitecore CLI for Sitecore data manipulation, gulp for minifications and python scripts for deployment",
+        "Implemented <b>Automation</b> functionalities using Sitecore CLI for Sitecore data manipulation, gulp for minifications and python scripts for deployment<br/><br/>",
 
       ],
       [
@@ -83,7 +83,8 @@ export const Project_data = [
     description: [
       "Developed a model utilizing data available on <b>NASA Power</b> and <b>GBIF</b> for analysis of temperature and bird migration pattern.",
       "Analyzed <b>time-stamped</b> data with <b>Geo-Json</b> format to <b>visualize</b> on maps using Leaflet library.",
-      "Trained <b>regression model</b> to predict exact location of birds."
+      "Trained <b>regression model</b> to predict exact location of birds.",
+      
     ],
     website: "https://github.com/patel-priyal-m/BirdMigration"
   },

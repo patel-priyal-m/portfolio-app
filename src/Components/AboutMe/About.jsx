@@ -46,11 +46,11 @@ const About = () => {
           <Box d="flex" flexDir="column" p={30}>
             <Text textAlign="justify" alignItems="center" fontSize="lg">
               Hi, I’m Priyal Patel, a Master of Applied Computing student with a focus on Artificial Intelligence, driven by a deep interest in leveraging AI and machine learning to solve real-world problems. With experience in developing intelligent systems, I specialize in designing and implementing solutions that harness the power of data to deliver impactful insights. My expertise includes:
+              <br></br>
             </Text>
             <ul>
               <li>
                 <Text fontSize="lg">
-                  <br></br>
                   Data Structures and Algorithm
                 </Text>
               </li>
